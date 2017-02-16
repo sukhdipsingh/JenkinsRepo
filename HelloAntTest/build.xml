@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<project name="AntTest" basedir="." default="test">
+
+	   
+   <target name="test">
+      <echo>Apache Ant version is ${ant.version} </echo>
+	  <echo> This is Hello World! for First Build </echo>
+   </target>
+   
+  
+</project>
